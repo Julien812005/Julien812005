@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Julien812005
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning trying to code on Python
+- 📫 How to reach me -> discord Julien81#4030
